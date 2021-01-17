@@ -10,7 +10,7 @@ while True:
         n -= 1
 
     print(n)
-    if n == 0:
+    if n == 1:
         break
 
 print("실행시간", start_time - time.time())
